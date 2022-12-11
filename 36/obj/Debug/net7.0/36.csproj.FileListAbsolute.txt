@@ -1,0 +1,15 @@
+C:\Users\BigPenis\Урок 5. Функции и одномерные массивы DZ\36\bin\Debug\net7.0\36.exe
+C:\Users\BigPenis\Урок 5. Функции и одномерные массивы DZ\36\bin\Debug\net7.0\36.deps.json
+C:\Users\BigPenis\Урок 5. Функции и одномерные массивы DZ\36\bin\Debug\net7.0\36.runtimeconfig.json
+C:\Users\BigPenis\Урок 5. Функции и одномерные массивы DZ\36\bin\Debug\net7.0\36.dll
+C:\Users\BigPenis\Урок 5. Функции и одномерные массивы DZ\36\bin\Debug\net7.0\36.pdb
+C:\Users\BigPenis\Урок 5. Функции и одномерные массивы DZ\36\obj\Debug\net7.0\36.csproj.AssemblyReference.cache
+C:\Users\BigPenis\Урок 5. Функции и одномерные массивы DZ\36\obj\Debug\net7.0\36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BigPenis\Урок 5. Функции и одномерные массивы DZ\36\obj\Debug\net7.0\36.AssemblyInfoInputs.cache
+C:\Users\BigPenis\Урок 5. Функции и одномерные массивы DZ\36\obj\Debug\net7.0\36.AssemblyInfo.cs
+C:\Users\BigPenis\Урок 5. Функции и одномерные массивы DZ\36\obj\Debug\net7.0\36.csproj.CoreCompileInputs.cache
+C:\Users\BigPenis\Урок 5. Функции и одномерные массивы DZ\36\obj\Debug\net7.0\36.dll
+C:\Users\BigPenis\Урок 5. Функции и одномерные массивы DZ\36\obj\Debug\net7.0\refint\36.dll
+C:\Users\BigPenis\Урок 5. Функции и одномерные массивы DZ\36\obj\Debug\net7.0\36.pdb
+C:\Users\BigPenis\Урок 5. Функции и одномерные массивы DZ\36\obj\Debug\net7.0\36.genruntimeconfig.cache
+C:\Users\BigPenis\Урок 5. Функции и одномерные массивы DZ\36\obj\Debug\net7.0\ref\36.dll
